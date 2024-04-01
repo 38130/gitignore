@@ -1,8 +1,9 @@
 # Ignore single file
-new-file.txt
+another-file.txt
 
 #Ignore all files in the vin directory
 bin/
 
 #Ignore all .tmp files
 *.tmp
+
